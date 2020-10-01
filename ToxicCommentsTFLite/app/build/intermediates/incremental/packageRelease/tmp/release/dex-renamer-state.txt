@@ -1,0 +1,4 @@
+#Sat Jun 13 21:42:02 IST 2020
+base.0=C\:\\Programming\\Android\\ToxicCommentsTFLite\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
